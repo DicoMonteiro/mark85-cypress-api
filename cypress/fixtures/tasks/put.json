@@ -1,0 +1,13 @@
+{
+    "uniqueTask": {
+        "name": "Alter4r uma task de pagamento",
+        "tags": [
+            "Nubank",
+            "Itaú",
+            "Inter"
+        ]
+    },
+    "not_found": {
+        "name": "Alter4r uma task não encontrada"
+    }
+}

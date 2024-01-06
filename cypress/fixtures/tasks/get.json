@@ -1,0 +1,32 @@
+{
+    "list": [
+        {
+            "name": "Estud4r astronomia",
+            "tags": [
+                "spaceX",
+                "falcons",
+                "nasa"
+            ]
+        },
+        {
+            "name": "Estud4r Robot Framework",
+            "tags": [
+                "python"
+            ]
+        },
+        {
+            "name": "Estud4r Cypress"
+        }
+    ],
+    "unique": {
+        "name": "Construir a Mark87",
+        "tags": [
+            "ark",
+            "nanotech",
+            "friday"
+        ]
+    },
+    "not_found": {
+        "name": "Construir uma maquina de radiação gama"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "uniqueTask": {
+        "name": "Delet4r uma task",
+        "tags": [
+            "Nubank",
+            "Itaú",
+            "Inter"
+        ]
+    },
+    "not_found": {
+        "name": "Delet4ar task não encontrada"
+    }
+}

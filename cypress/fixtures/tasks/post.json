@@ -1,0 +1,15 @@
+{
+    "post": {
+        "newTask": {
+            "name": "Pagar fatura do cartão",
+            "tags": [
+                "Nubank", 
+                "Itaú",
+                "Inter"
+            ]
+        },
+        "duplicate": {
+            "name": "Pagar faculdade"
+        }
+    }
+}

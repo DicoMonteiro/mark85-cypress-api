@@ -1,0 +1,74 @@
+{
+    "sessions": {
+        "name": "Joana Darc",
+        "email": "joana@gmail.com",
+        "password": "pwd123",
+        "inv_pass": "test123",
+        "inv_email": "adrianob@test.com.br"
+    },
+    "usersSignup": [
+        {
+            "name": "Apolo Vale",
+            "email": "apolo@hotmail.com",
+            "password": "pwd123"
+        },
+        {
+            "name": "Apolo Almeida",
+            "email": "apoloalmeida@hotmail.com",
+            "password": "pwd123"
+        },
+        {
+            "name": "Margot Robbie",
+            "email": "margot@gmail.com",
+            "password": "pwd123"
+        }
+    ],
+    "tasks": {
+        "post": {
+            "name": "Chico Dantas",
+            "email": "chico@gmail.com",
+            "password": "pwd123"
+        },
+        "duplicate": {
+            "name": "jean Grey",
+            "email": "fenix@gmail.com",
+            "password": "pwd123"
+        },
+        "get": {
+            "name": "Charles Xavier",
+            "email": "xavier@gmail.com",
+            "password": "pwd123"
+        },
+        "getUnique": {
+            "name": "Tony Stark",
+            "email": "tony@stark.com",
+            "password": "pwd123"
+        },
+        "getNotFound": {
+            "name": "Bruce Banner",
+            "email": "hulk@stark.com",
+            "password": "pwd123"
+        },
+        "delete": {
+            "name": "Steve Jobs",
+            "email": "steve@apple.com",
+            "password": "pwd123"
+        },
+        "deleteNotFound": {
+            "name": "Bill Gates",
+            "email": "bill@microsoft.com",
+            "password": "pwd123"
+        },
+        "put": {
+            "name": "John Wick",
+            "email": "john@wick.com",
+            "password": "pwd123"
+        },
+        "putNotFound": {
+            "name": "Bruce Waine",
+            "email": "bruce@waine.com",
+            "password": "pwd123"
+        }
+    }
+    
+}
